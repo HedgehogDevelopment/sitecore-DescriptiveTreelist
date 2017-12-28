@@ -1,5 +1,6 @@
-sitecore-DescriptiveTreelist
-============================
+<img src="https://www.hhog.com/-/media/PublicImages/Hedgehog/Hedgehog-logo-4color-275x46.jpg" alt="Hedgehog Development" border="0">
+
+# Sitecore Descriptive Treelist
 
 Sitecore Descriptive Tree List Field Type
 
