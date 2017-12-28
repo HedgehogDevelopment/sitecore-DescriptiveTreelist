@@ -2,7 +2,7 @@
 
 # Sitecore Descriptive Treelist
 
-Sitecore Descriptive Tree List Field Type
+[Sitecore Descriptive Tree List Field Type](http://seankearney.com/post/sitecore-descriptive-tree-list-field-type)
 
 This Visual Studio 2010 Solution contains two projects.
 1. A Web Application project (DescriptiveTreelist) 
